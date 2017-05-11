@@ -1,0 +1,19 @@
+.pic > img {
+    height: 50px;
+    width: 50px;
+}
+.pic > .material-icons {
+    font-size: 50px;
+}
+.searchedfor {
+    background: paleturquoise;
+}
+
+#template-row:hover {
+    background: #f7faff;
+    cursor: pointer;
+}
+
+.table > thead > tr > th > a:hover {
+    cursor: pointer;
+}
